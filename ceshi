@@ -1,1 +1,31 @@
-https://thexin7.love/sub/speedip.eu.org
+همه چی درسته
+
+این لینک sub را همراه با کد اپراتور در اپ v2ray خود کپی کنید. برای مثال در همراه اول به شکل زیر خواهد بود:
+
+https://wuxian.seven0711.workers.dev/sub/mci
+
+و یا همین لینک را همراه آی‌پی تمیز در اپ خود اضافه کنید:
+
+https://wuxian.seven0711.workers.dev/sub/1.2.3.4
+
+می‌توانید چند آی‌پی تمیز را با کاما جدا کنید. در این صورت برای هر آی‌پی تمیز به تعداد قدید شده، کانفیک ترکیب شده با ورکر تحویل می دهد:
+
+https://wuxian.seven0711.workers.dev/sub/1.2.3.4,9.8.7.6
+
+دقیقا با همین مدل می‌توانید دامین آی‌پی تمیز نیز استفاده کنید:
+
+https://wuxian.seven0711.workers.dev/sub/mci.ircf.space
+
+می‌توانید از چند سابدامنین آیءی تمیز نیز استفاده کنید:
+
+https://wuxian.seven0711.workers.dev/sub/mci.ircf.space,my.domain.me
+
+می‌توانید با متغیر max تعداد کانفیگ را مشخص کنید:
+
+https://wuxian.seven0711.workers.dev/sub/1.2.3.4?max=200
+
+همچنین می‌توانید با متغیر original با عدد 0 یا 1 و یا با yes/no مشخص کنید که کانفیگ‌های اصلی (ترکیب نشده با ورکر) هم در خروجی آورده شوند یا نه:
+
+https://wuxian.seven0711.workers.dev/sub/1.2.3.4?max=200&original=yes
+
+https://wuxian.seven0711.workers.dev/sub/1.2.3.4?max=200&original=0
