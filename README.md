@@ -1,6 +1,16 @@
-### V2Ray订阅链接
+### 部署
 ```
-https://raw.githubusercontent.com/thexin77/jiedian/main/7vless
+curl -ksSL https://gitlab.com/rwkgyg/cdnopw/raw/main/cdnopw.sh -o cdnopw.sh && bash cdnopw.sh
 ```
-开代理导入
-### 可自行更换优选ip
+### 部署完输入
+```
+crontab -e
+```
+### 十分钟更新一次代码
+```
+*/10 * * * * cd /root/cfipopw/ && bash cdnip.sh
+```
+### 面板
+```
+bash cdnopw.sh
+```
