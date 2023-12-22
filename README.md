@@ -8,7 +8,7 @@ crontab -e
 ```
 ### 十分钟更新一次代码
 ```
-*/10 * * * * cd /root/cfipopw/ && bash cdnip.
+*/10 * * * * cd /root/cfipopw/ && bash cdnip.sh
 ```
 ### 一个小时更新一次代码
 ```
